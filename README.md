@@ -1,2 +1,2 @@
 # Beecrowd
-Beecrowd exercises code
+Beecrowd exercises code solved in Python.
